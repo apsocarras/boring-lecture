@@ -1,0 +1,19 @@
+body {
+  background-color: sandybrown;
+}
+
+h2.intro {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:purple;
+}
+
+p.intro {
+  text-decoration: wavy;
+  color: aliceblue;
+}
+
+img.intro {
+  opacity: .6; 
+  border: 12px dashed red;
+  border-radius: 50%; 
+}
